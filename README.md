@@ -188,3 +188,6 @@ df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass'
 df5
 ```
 # OUPUT
+
+RESULT :
+Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully
