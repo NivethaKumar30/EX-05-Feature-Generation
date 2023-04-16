@@ -21,6 +21,10 @@ Save the data to the file
 
 # CODE
 ```
+NAME: NIVETHA K
+REG.NO:212222230102
+```
+```
 import pandas as pd
 df=pd.read_csv("data.csv")
 df
