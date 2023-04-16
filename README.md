@@ -188,6 +188,25 @@ df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass'
 df5
 ```
 # OUPUT
+![o1](https://user-images.githubusercontent.com/119559844/232316518-3aa2ebef-a048-43c4-8132-3931217ca84b.png)
+![o2 ](https://user-images.githubusercontent.com/119559844/232316524-c63c8442-3908-475c-9cb3-332a14a0b827.png)
+![o3 ](https://user-images.githubusercontent.com/119559844/232316527-cdae8514-e916-4168-b6c7-08b2751cffab.png)
+![o4 ](https://user-images.githubusercontent.com/119559844/232316534-33577f82-aa02-4e41-a9e3-968f095ba5d4.png)
+![o5 ](https://user-images.githubusercontent.com/119559844/232316542-d9587606-b331-451e-b561-021a9c271816.png)
+![o6](https://user-images.githubusercontent.com/119559844/232316546-9824e330-4cfb-47a7-a81d-bce1b3673492.png)
+![o7 ](https://user-images.githubusercontent.com/119559844/232316549-8f5c1e29-5106-4282-ae78-6d953a563f84.png)
+![o8](https://user-images.githubusercontent.com/119559844/232316550-5924ff77-2f69-4ff9-8874-51a558b279d9.png)
+![o9](https://user-images.githubusercontent.com/119559844/232316555-d57ab9e8-e58f-4143-a2fb-bf476e3dd9c6.png)
+![o10](https://user-images.githubusercontent.com/119559844/232316564-bf0d875f-ad46-44c9-a325-039d49b95676.png)
+![o11](https://user-images.githubusercontent.com/119559844/232316571-fc77ed91-ea9a-45d2-b485-add5fd32981d.png)
+![o12](https://user-images.githubusercontent.com/119559844/232316576-648bd6ac-6948-4662-954f-345eafc7cfd2.png)
+![o13](https://user-images.githubusercontent.com/119559844/232316584-6da77f92-4d41-42e4-a0b4-623a348c001e.png)
+![o14](https://user-images.githubusercontent.com/119559844/232316590-7390473f-297f-4a6d-830d-82bb50bcab9c.png)
+![o15](https://user-images.githubusercontent.com/119559844/232316594-31e2a68e-95ac-4430-a9ef-f61f803f8656.png)
+![o16](https://user-images.githubusercontent.com/119559844/232316598-d9f8f526-b768-4e52-bb35-dc55b57b03e1.png)
+![o17](https://user-images.githubusercontent.com/119559844/232316604-bfbced08-7794-4541-ba01-bf0ba2e1cfaf.png)
+![o18](https://user-images.githubusercontent.com/119559844/232316610-56f6ba55-1e1d-4792-8a0b-8c48e7900366.png)
+![o19](https://user-images.githubusercontent.com/119559844/232316618-a69927f6-f11d-4efb-b92b-0e3388f7b155.png)
 
 RESULT :
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully
